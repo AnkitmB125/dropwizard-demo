@@ -1,0 +1,6 @@
+org/ankit/resources/PersonService.class
+org/ankit/DWConfiguration.class
+org/ankit/data/Person.class
+org/ankit/health/TemplateHealthCheck.class
+org/ankit/DWApplication.class
+org/ankit/persistence/PersonDB.class
